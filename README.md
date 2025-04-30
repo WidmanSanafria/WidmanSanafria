@@ -1,54 +1,57 @@
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Widman%20Sanafria&fontSize=40&fontAlignY=35&desc=Desarrollador%20FullStack%20|&descAlignY=60&descAlign=62" />
+</p>
+
 <h1 align="center">👋 ¡Hola! Soy Widman Sanafria</h1>
-<h3 align="center">🧑‍💻 Desarrollador Full Stack | 🧰 Hacker Ético</h3>
+<h3 align="center">🧠🧑‍💻 Desarrollador Full Stack | 🧰 Hacker Ético</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wsanafria&label=Visitas%20al%20perfil&color=blueviolet&style=flat" alt="wsanafria" />
+  <img src="https://komarev.com/ghpvc/?username=wsanafria&label=Visitas%20al%20perfil&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🧰 Tech Stack
+## 🚀 Sobre Mí
 
-```bash
-# Lenguajes
-Python, Java, JavaScript (ES6+), TypeScript, Bash
+Soy Widman Sanafria, desarrollador full stack. Me especializo en construir herramientas, automatizar procesos críticos y desarrollar sistemas escalables usando tecnologías modernas.
 
-# Frameworks
-Angular 18, FastAPI, Spring Boot, Tailwind CSS
-
-# Herramientas
-Playwright, Docker, Git, VSCode, IntelliJ IDEA, Postman
-
-# Bases de Datos
-PostgreSQL, SQLite, MongoDB
-
-# Sistemas Operativos
-macOS, Arch Linux, Ubuntu, Kali Linux
-```
+- 🔭 Actualmente trabajando en herramientas ofensivas con IA
+- 🌱 Aprendiendo arquitecturas distribuidas y seguridad en la nube
+- 💬 Pregúntame sobre automatización, hacking ético y desarrollo moderno
+- ⚡ Fun fact: Programo con música ☕
 
 ---
 
-### 🛠️ Proyectos Destacados
-
-- 🔥 [withMe Xtreme](https://github.com/wsanafria/withMe-Xtreme): Plataforma ofensiva avanzada para testing de seguridad, con módulos para carding, fingerprinting, automatización y exploits.
-- 🧠 [NeuroTradeGPT](https://github.com/wsanafria/NeuroTradeGPT): Bot de trading inteligente con IA, especializado en scalping profesional en Binance.
-- 🕵️‍♂️ [DorkHunter Pro](https://github.com/wsanafria/DorkHunter-Pro): Buscador y analizador de vulnerabilidades web con clasificación por riesgo.
-- 🧾 [JasperGPT](https://github.com/wsanafria/JasperGPT): Generador de reportes inteligentes en JasperReports a partir de SQL.
-
----
-
-### 📊 Estadísticas de GitHub
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wsanafria&show_icons=true&theme=dracula" alt="Estadísticas de GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsanafria&layout=compact&theme=dracula" alt="Lenguajes más usados" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,bash,angular,fastapi,spring,tailwind,docker,postgres,git,vscode,linux" />
 </p>
 
 ---
 
-### ⚡ Bio Estilo Bash
+## 🛠️ Proyectos Destacados
+
+| Proyecto | Descripción |
+|---------|-------------|
+| 🔥 [withMe Xtreme](https://github.com/wsanafria/withMe-Xtreme) | Plataforma ofensiva para pentesting con módulos de fingerprint, exploits y automatización |
+| 🧠 [NeuroTradeGPT](https://github.com/wsanafria/NeuroTradeGPT) | Bot de trading con IA, centrado en scalping para Binance |
+| 🕵️‍♂️ [DorkHunter Pro](https://github.com/wsanafria/DorkHunter-Pro) | Analizador de vulnerabilidades basado en dorks y fingerprint web |
+| 🧾 [JasperGPT](https://github.com/wsanafria/JasperGPT) | Generador de reportes Jasper desde SQL con estilo profesional |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wsanafria&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsanafria&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## ⚡ Bio estilo Terminal
 
 ```bash
 $ whoami
@@ -57,40 +60,43 @@ $ whoami
 $ pwd
 📍 Ecuador
 
-$ cat stack.txt
+$ cat skills.txt
 🔐 Ciberseguridad | ⚙️ Automatización | 📦 Backend | 💻 Frontend
 
 $ nmap -A wsanafria.dev
-PORT     STATE SERVICE
 443/tcp  open  https
 80/tcp   open  http
 3000/tcp open  nodejs (Angular Frontend Dev)
 
-$ curl -sL https://api.github.com/users/wsanafria | jq '.bio'
+$ curl -sL github.com/wsanafria | jq '.bio'
 "Engineer & Builder of real offensive tools"
 ```
 
 ---
 
-### 🌐 Conecta Conmigo
+## 🌐 Contacto
 
 <p align="center">
-  <a href="mailto:widman@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/widman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://widman.dev"><img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:widman@email.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/widman"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://widman.dev"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧠 Actualmente Trabajando en:
+## 🧠 Actualmente Enfocado en
 
-- 🔭 Mejorando el sistema ofensivo con IA de *withMe Xtreme*.
-- 📦 Integrando bases de datos reales y modelos predictivos con Machine Learning.
-- 📈 Construyendo dashboards en Angular con métricas visuales en tiempo real.
-- 🛡️ Automatizando procesos de hacking ético con scripts personalizados.
+- ✨ withMe Xtreme — consolidando herramientas ofensivas con IA y automatización
+- 📊 Dashboards en Angular + Python para seguimiento de métricas
+- 📦 Backend resiliente en FastAPI con PostgreSQL y Docker
+- 🔍 Sistemas de fingerprinting de formularios y análisis de tráfico
 
 ---
 
-### ☕ Frase del Día
+## ☕ Frase del Día
 
-> "No es magia... es Bash + Python + cabeza fría." — 🧠 Widman
+> “No es magia... es Bash + Python + cabeza fría.” — Widman
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
